@@ -18,5 +18,3 @@ O objetivo deste projeto é tornar o processo de gerenciamento de notas fiscais 
 - Emissão de nota fiscal simplificada e substituta
 - Cancelamento de nota fiscal
 - Filtros e parâmetros adicionais na consulta de notas fiscais
-
-- ## Como eu faço uso desta API no meu projeto?
