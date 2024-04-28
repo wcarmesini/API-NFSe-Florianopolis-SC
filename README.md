@@ -19,7 +19,7 @@ O objetivo deste projeto é tornar o processo de gerenciamento de notas fiscais 
 - Cancelamento de nota fiscal
 - Filtros e parâmetros adicionais na consulta de notas fiscais
 
-## Como utilizar a nossa aplicação?
+## Como utilizar a aplicação?
 
 1. Vá em **app>config.php** e preencha as informações necessárias.
 
@@ -59,3 +59,8 @@ echo "</pre>";
 
 
 ```
+
+## Agradecimentos
+
+- Um agradecimento especial ao [Gildonei Mendes Anacleto Junior](https://github.com/gildonei), cujo [projeto similar](https://github.com/gildonei/nfse-pmf) serviu de inspiração e fonte de valiosas dicas para a conclusão deste trabalho.
+- Um reconhecimento também aos desenvolvedores do projeto [NFePHP](https://github.com/nfephp-org/sped-nfe), cujo trabalho foi fundamental para a implementação da assinatura digital nos arquivos XML.
